@@ -198,7 +198,7 @@ The downloaded CSV file can be opened using Microsoft Excel for row-by-row inspe
 
 ## Deployment on Streamlit Community Cloud
 
-The application will be deployed using Streamlit Community Cloud with the following configuration:
+The application is deployed on Streamlit Community Cloud with the following configuration:
 
 - **GitHub repository:** `2026aj/breast-cancer-ml-classification`
 - **Branch:** `main`
@@ -219,7 +219,7 @@ The deployment procedure is:
 
 ## Live Streamlit Application
 
-Deployment is in progress. The public application URL will be included after the Streamlit Community Cloud deployment is completed.
+https://breast-cancer-model-comparison-2026aj.streamlit.app
 
 ## Reproducing the results
 
